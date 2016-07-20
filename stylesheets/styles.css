@@ -30,7 +30,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-image:url/..(2.jpg);
+	background-image:url(../images/2.jpg);
 	background-repeat:no-repeat; 
 	background-color:#FBFAF7;
 	margin: 0;
