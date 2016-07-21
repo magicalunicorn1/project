@@ -244,7 +244,8 @@ p.header {
 h1.header {
 	font-family: Arvo, sans-serif;
 	font-size: 30px;
-	font-weight: 300;
+	font-weight: 300;  
+	color: #b3b3b3;
 	line-height: 1.3em;
 	border-bottom: none;
 	margin-top: 0;
